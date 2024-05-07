@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Tarun Bandi</h1>
-<h3 align="center">A passionate developer studying at Carnegie Mellon University</h3>
+<h1 align="center">Welcome to my github</h1>
+<h3 align="center">I'm a CS Major at Carnegie Mellon with a focus on Systems and Algorithms.</h3>
 
 <div>
   
